@@ -1,0 +1,88 @@
+#head{
+    background-color: black;
+    color: white;
+    height: 143px;
+    text-align: center;
+    font-family: inder;
+}
+#DP{
+    margin-top: 40;
+
+}
+#Pd{
+    background-color: #cfcfb8;
+    height: 850px;
+    width: 178px;
+
+
+    
+}
+#im{
+    margin-top: 60;
+
+}
+#PR{
+    font-family: inder;
+    margin-top: 40;
+    font-size: 20px;
+}
+#Skills{
+    font-size: 20px;
+    font-family: inder;
+    margin-top: 40;
+}
+#row2{
+
+    color: black;
+    text-align:left ;
+    margin-top: 50px;
+    font-size: 20;
+    font-weight: inter;
+}
+#Work{
+    font-size: 24px;
+    font-family: inter;
+    color: cornflowerblue;
+    border: solid black;
+    border-left: 200px;
+    border-right: 200px;
+    padding-right: 110px;
+    width:700px;
+
+}
+#web2{
+    font-size: 24;
+}
+#habib{
+    font-size: 15;
+    font-family:  light italic;
+    
+}
+#para1{
+    font-size: 15;
+    font-family: inter;
+    margin-bottom: 40px;
+    
+}
+#edu{
+    font-size: 24px;
+    font-family: inter;
+    color: cornflowerblue;
+    border: solid black;
+    border-left: 200px;
+    border-right: 200px;
+    padding-right: 110px;
+    width:700px;
+
+}
+#Bsc{
+    font-size: 24;
+
+}
+#clg{
+    font-size: 15;
+    padding-left: 50px;
+}
+#para{
+    font-size: 16;
+}
